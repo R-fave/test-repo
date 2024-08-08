@@ -1,0 +1,27 @@
+body {
+  background-color: bisque;
+}
+li {
+  display: inline;
+}
+
+ul {
+  display: flex;
+  justify-content: space-around;
+}
+div {
+  position: relative;
+}
+
+img {
+  border-radius: 20px;
+}
+
+p {
+  background-color: white;
+  padding: 5px 10px;
+  border-radius: 10px;
+  position: absolute;
+  top: 0px;
+  left: 10px;
+}
